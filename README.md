@@ -69,3 +69,10 @@ This LabVIEW project provides a solution for sorting and saving a data table wit
 ![image](https://github.com/user-attachments/assets/b78d8350-4037-4673-8f67-70be48c0db05)
 ![image](https://github.com/user-attachments/assets/382a787f-c4bb-4827-a458-4a7de0893aad)
 ![image](https://github.com/user-attachments/assets/26a1e6d2-5e55-451c-aeea-5f7641815816)
+
+## The appearance of the running program
+![image](https://github.com/user-attachments/assets/4cacc67c-db0b-4653-9078-4ab3b45c2c2d)
+![image](https://github.com/user-attachments/assets/b083005e-b9ce-4469-96a5-63aa698ff122)
+![image](https://github.com/user-attachments/assets/02f9f67a-875d-44f8-84c9-9283efc5ca69)
+![image](https://github.com/user-attachments/assets/9c37f153-41b6-4d81-9672-d32369be3846)
+
